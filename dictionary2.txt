@@ -1,0 +1,5 @@
+{"name":"bob","age":45,"height":"6-1","weight":190,"hair":"blonde","eyes":"blue"}
+{"name":"sally","age":22,"height":"5-2","weight":110,"hair":"brown","eyes":"green"}
+{"name":"sue","age":87,"height":"4-11","weight":98,"hair":"gray","eyes":"hazel"}
+{"name":"tom","age":13,"height":"4-3","weight":100,"hair":"blonde","eyes":"brown"}
+{"name":"joe","age":21,"height":"6-0","weight":115,"hair":"black","eyes":"blue"}
