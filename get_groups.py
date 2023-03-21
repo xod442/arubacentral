@@ -35,7 +35,7 @@ def groups():
     ssl_verify = True
     token = get_client()
 
-    print("---------------Fetching Group----------------------")
+    print("---------------Fetching Groups----------------------")
 
     # Get groups max limit 20, apply offset and fetch other groups in loop
     g = Groups()
